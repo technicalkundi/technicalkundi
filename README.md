@@ -35,7 +35,8 @@
 <h3><a id="user-content--medium-blog-posts" class="anchor" aria-hidden="true" href="#-medium-blog-posts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">
 
 <p>Open Source Contributor from <b>Pakistan<b> <g-emoji class="g-emoji" alias="green_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png">💚</g-emoji></b></b></p><b><b>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/da962a0d29a4a56de89ce9fd83be1212fa8426e3a486af186412626dd974b9a8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6d2d68616d7a617368616b65656c2e6d2d68616d7a617368616b65656c"><img src="https://camo.githubusercontent.com/da962a0d29a4a56de89ce9fd83be1212fa8426e3a486af186412626dd974b9a8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6d2d68616d7a617368616b65656c2e6d2d68616d7a617368616b65656c" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi" style="max-width:100%;"></a></p>
+
+
 </b></b></article>
 
 

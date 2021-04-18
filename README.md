@@ -14,11 +14,7 @@
     <img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/Furqanahmadkundi/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;">
-</a>
-<a href="https://stackoverflow.com/users/1229732/technicalkundi?tab=profile" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/7719feed664e6d0db80662b61f591348ce889dbaf53e8ebb91668f2180d0f220/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537461636b5f4f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" style="max-width:100%;">
-</a>
+    
 </div>
 <h3><a id="user-content-a-student-developer--writer" class="anchor" aria-hidden="true" href="#a-student-developer--writer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>A Student, Developer &amp; Writer</h3>
 <p><a target="_blank" rel="noopener noreferrer" href="/m-hamzashakeel/m-hamzashakeel/blob/master/code.gif"><img align="right" alt="GIF" src="/m-hamzashakeel/m-hamzashakeel/raw/master/code.gif" width="500" height="320" style="max-width:100%;"></a></p>

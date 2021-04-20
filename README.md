@@ -46,8 +46,10 @@
 ![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&show_icons=true&hide_border=true)
 
 <p>Open Source Contributor from <b>Pakistan<b> 💚</p>
-<br>
+    
+
 ![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)
+    
     <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
 

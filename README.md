@@ -60,7 +60,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
 
-
+<hr>
 Open Source Contributor from <b>Pakistan<b> 💚
     
 

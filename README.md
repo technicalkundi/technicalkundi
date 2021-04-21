@@ -29,7 +29,7 @@
 <hr>
 
 <!-- Gif Picture -->
-<img align="right" alt="GIF" src="Furqan.gif" width="495" height="280" />
+<img align="right" alt="GIF" src="Furqan.gif" width="499" height="280" />
 
 
 

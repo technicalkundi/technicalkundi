@@ -1,8 +1,10 @@
 ### Hey there, I'm  Furqan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">
+    
+    <!-- Social Start -->
 <p align="center">Let's connect!</p>
-    
-    
+     
+     
 <a href="https://twitter.com/technicalkundi">
 <img alt="@FurqanAhmad | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -22,15 +24,19 @@
 <img  alt="Furqanahmadkundi@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
 </div>
+ <!-- Social End -->
 <hr>
 
-### A Student & Developer
+<!-- Gif Picture -->
 <img align="right" alt="GIF" src="Furqan.gif" width="500" height="320" />
 
 
 
 
-
+### A Student & Developer
+- 💻 I'm interested in Flutter, UI/UX
+- ✨ I'm Now Working On Front-End Web Development.
+- 📄 [Portfolio][profile]
 <ul>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> The tech I'm interested in Flutter, UI/UX</li>
 <li><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> I'm Now Working On Front-End Web Development.</li>

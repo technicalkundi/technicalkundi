@@ -1,7 +1,8 @@
 ### Hey there, I'm  Furqan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">
     
-    <!-- Social Start -->
+  <!-- Social Start -->
+    
 <p align="center">Let's connect!</p>
      
      
@@ -36,7 +37,7 @@
 ### A Student & Developer
 - 💻 I'm interested in Flutter, UI/UX
 - ✨ I'm Now Working On Front-End Web Development.
-- 📄 [Portfolio][profile]
+- 📄 [Portfolio](https://technicalkundi.github.io/)
 <ul>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> The tech I'm interested in Flutter, UI/UX</li>
 <li><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> I'm Now Working On Front-End Web Development.</li>

@@ -38,11 +38,7 @@
 - 💻 I'm interested in Flutter, UI/UX
 - ✨ I'm Now Working On Front-End Web Development.
 - 📄 [Portfolio](https://technicalkundi.github.io/)
-<ul>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> The tech I'm interested in Flutter, UI/UX</li>
-<li><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> I'm Now Working On Front-End Web Development.</li>
-<li><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> <a href="http://technicalkundi.github.io" rel="nofollow">Portfolio</a></li>
-</ul>
+
 
 ### Languages & Tools
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -58,10 +54,11 @@
 <img align="center" alt="Furqan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=technicalkundi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <p align="center">
 <br>
-
+<summary>📝 Language I Used</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
 
-<p>Open Source Contributor from <b>Pakistan<b> 💚</p>
+
+Open Source Contributor from <b>Pakistan<b> 💚
     
 
 ![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)<img src="https://badges.pufler.dev/years/technicalkundi/">

@@ -56,7 +56,7 @@
 <br>
     
 <summary>📝 Language I Used</summary>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
 
 

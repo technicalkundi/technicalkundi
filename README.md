@@ -51,7 +51,7 @@
 <p>Open Source Contributor from <b>Pakistan<b> 💚</p>
     
 
-![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)
+![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)<img src="https://badges.pufler.dev/months/technicalkundi/"><img src="https://badges.pufler.dev/months/technicalkundi/"><img src="https://badges.pufler.dev/years/technicalkundi/">
     
     
 

@@ -54,6 +54,7 @@
 <img align="center" alt="Furqan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=technicalkundi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <p align="center">
 <br>
+    
 <summary>📝 Language I Used</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
 

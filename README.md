@@ -5,7 +5,9 @@
     
 <p align="center">Let's connect!</p>
      
-     
+<a href="https://www.facebook.com/FurqanAhmadkundi">
+<img  alt="@FurqanAhmad | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>     
 <a href="https://twitter.com/technicalkundi">
 <img alt="@FurqanAhmad | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -17,9 +19,6 @@
 </a>
 <a href="https://medium.com/@FurqanAhmadkundi" target="_blank">
 <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
-</a>
-<a href="https://www.facebook.com/FurqanAhmadkundi">
-<img  alt="@FurqanAhmadkundi | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:Furqanahmadkundi@gmail.com">
 <img  alt="Furqanahmadkundi@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
@@ -63,7 +62,7 @@
 
 <hr>
 Open Source Contributor from <b>Pakistan<b> 💚
-<br>    
+<br> <br>   
 
 ![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi) <img src="https://badges.pufler.dev/years/technicalkundi/">
     

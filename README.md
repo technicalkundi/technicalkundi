@@ -46,12 +46,8 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 
-
-
-<summary>📝 My GitHub Stats</summary>
-<br>
-[![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&theme=highcontrast&show_icons=true)](https://github.com/technicalkundi/github-readme-stats)
-<br>
+br
+br
     
 <summary>📝 Language I Used</summary>
 <br>

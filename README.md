@@ -50,8 +50,7 @@
 
 <summary>📝 My GitHub Stats</summary>
 <br>
-![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&theme=dark&show_icons=true)
 <br>
     
 <summary>📝 Language I Used</summary>

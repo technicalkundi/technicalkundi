@@ -50,9 +50,7 @@
 
 <summary>📝 My GitHub Stats</summary>
 <br>
-<a href="https://github.com/technicalkundi">
-<img align="center" alt="Furqan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=technicalkundi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<p align="center">
+[![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&theme=gotham)](https://github.com/technicalkundi/github-readme-stats)
 <br>
     
 <summary>📝 Language I Used</summary>

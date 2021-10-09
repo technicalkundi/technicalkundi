@@ -50,13 +50,13 @@
 
 <summary>📝 My GitHub Stats</summary>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&theme=gruvbox&show_icons=true)
+![Furqan's github stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&theme=highcontrast&show_icons=true)
 <br>
     
 <summary>📝 Language I Used</summary>
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi)](https://github.com/technicalkundi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi&theme=highcontrast&show_icons=true)](https://github.com/technicalkundi/github-readme-stats)
 
 <hr>
 Open Source Contributor from <b>Pakistan<b> 💚

@@ -34,7 +34,6 @@
 
 
 ### A Student & Developer
-- 💻 I'm interested in Flutter, UI/UX
 - ✨ I'm Now Working On Front-End Web Development.
 - 📄 [Portfolio](https://technicalkundi.github.io/)
 

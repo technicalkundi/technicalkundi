@@ -55,5 +55,6 @@
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&show_icons=true&theme=highcontrast)
 <hr>
 Open Source Contributor from Pakistan 💚
+
 </b></b></article>
 

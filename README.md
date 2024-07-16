@@ -53,15 +53,7 @@
 
 ### GitHub Stats
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&show_icons=true&theme=highcontrast)
-
+<hr>
 ### Open Source Contributor from Pakistan 💚
-<br> <br>   
-
-![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)
-
 </b></b></article>
 
-<!---
-technicalkundi/technicalkundi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

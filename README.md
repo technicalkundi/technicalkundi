@@ -57,7 +57,7 @@
 ### GitHub Stats
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&show_icons=true&theme=highcontrast)
 <hr>
-Open Source Contributor from Pakistan 💚
+Open Source Contributor from Pakistan 💚                                                                 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=gdsc-umit.gdsc-umit"></p>
 
 </b></b></article>
 

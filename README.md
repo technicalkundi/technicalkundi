@@ -12,7 +12,7 @@
 <img alt="@FurqanAhmad | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/technicalkundi">
-<img alt="@FurqanAhmad | Instagram"  src="https://img.shields.io/badge/Instagram-%23bc2a8d.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="@FurqanAhmad | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/technicalkundi/">
 <img alt="FurqanAhmad | LinkedIN"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

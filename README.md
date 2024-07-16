@@ -1,4 +1,4 @@
-### Hey there, I'm  [Furqan](https://web.facebook.com/furqanahmadkundi/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm [Furqan](https://web.facebook.com/furqanahmadkundi/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">
     
   <!-- Social Start -->
@@ -24,19 +24,16 @@
 <img  alt="Furqanahmadkundi@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
 </div>
- <!-- Social End -->
+<!-- Social End -->
 <hr>
 
 <!-- Gif Picture -->
 <img align="right" alt="GIF" src="Furqan.gif" width="499" height="280" />
 
-
-
-
 ### A Student & Developer
-- ✨ I'm Now Working On Front-End Web Development.
+- ✨ I'm currently focusing on Front-End Web Development.
+- 🌱 I’m currently learning JavaScript frameworks like React.js.
 - 📄 [Portfolio](https://technicalkundi.github.io/)
-
 
 ### Languages & Tools
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -48,25 +45,21 @@
 
 <br>
 <br>
-    
-<summary>📝 Language I Used</summary>
+
+<summary>📝 Languages I've Used</summary>
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi&theme=highcontrast&show_icons=true)](https://github.com/technicalkundi/github-readme-stats)
 
-<hr>
-Open Source Contributor from <b>Pakistan<b> 💚
+### GitHub Stats
+![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalkundi&show_icons=true&theme=highcontrast)
+
+### Open Source Contributor from Pakistan 💚
 <br> <br>   
 
 ![](https://visitor-badge.glitch.me/badge?page_id=technicalkundi.technicalkundi)
-    
-    
-
-
-
 
 </b></b></article>
-
 
 <!---
 technicalkundi/technicalkundi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

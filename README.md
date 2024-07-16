@@ -6,22 +6,22 @@
 <p align="center">Let's connect!</p>
      
 <a href="https://www.facebook.com/FurqanAhmadkundi">
-<img  alt="@FurqanAhmad | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<img  alt="@FurqanAhmad | Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>     
 <a href="https://twitter.com/technicalkundi">
-<img alt="@FurqanAhmad | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img alt="@FurqanAhmad | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/technicalkundi">
-<img alt="@FurqanAhmad | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="@FurqanAhmad | Instagram"  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/technicalkundi/">
-<img alt="FurqanAhmad | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img alt="FurqanAhmad | LinkedIN"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@FurqanAhmadkundi" target="_blank">
-<img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
+<img src = "https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
 </a>
 <a href="mailto:Furqanahmadkundi@gmail.com">
-<img  alt="Furqanahmadkundi@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+<img  alt="Furqanahmadkundi@gmail.com | Email" src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
 </div>
 <!-- Social End -->
